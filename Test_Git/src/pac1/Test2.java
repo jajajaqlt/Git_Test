@@ -2,7 +2,9 @@ package pac1;
 
 /**
  * 
- * @author lq4
+
+ * @author xs4
+
  *
  */
 public class Test2 {
